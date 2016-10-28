@@ -3,7 +3,12 @@
 <HEAD>
 
 <TITLE>Название документа</TITLE>
-
+<style>
+h1	{
+font-family:'Times New Roman', Times, serif;
+font-size:250%
+}
+</style>
 </HEAD>
 
 <BODY bgcolor="teal" text="aqua">
